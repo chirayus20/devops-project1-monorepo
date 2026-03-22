@@ -181,7 +181,7 @@ export default function DevOpsRoadmap() {
   const [backendStatus, setBackendStatus] = useState(null);
 
 useEffect(() => {
-  fetch('http://54.196.135.76:3000/health')
+  fetch('http://52.201.169.179:3000/health')
     .then(res => res.json())
     .then(data => setBackendStatus(data.status))
     .catch(() => setBackendStatus('offline'));
