@@ -103,17 +103,15 @@ devops-project1-monorepo/
 
 
 
-## Screenshots
-
-![CI/CD Workflow](ci-cd-pipeline.png)
-
 ## 📸 Screenshots
 
-### Deployment Screenshots
+### AWS DevOps Engineer Roadmap
 
-![Screenshot 1](content.png)
+![AWS DevOps Engineer Roadmap](content.png)
 
-![Screenshot 2](content%20(1).png)
+### Deployment Views
 
-![Screenshot 3](content%20(2).png)
+![Deployment View 2](content%20(1).png)
+
+![Deployment View 3](content%20(2).png)
 
