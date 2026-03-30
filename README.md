@@ -108,3 +108,4 @@ devops-project1-monorepo/
 ![CI/CD Workflow](ci-cd-pipeline.png)
 
 ![Frontend Dashboard](frontend-screenshot.png)
+content.png
