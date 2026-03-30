@@ -1,9 +1,13 @@
 🚀 DevOps Project 1 - Monorepo
 
 A full-stack monorepo with Backend + Frontend + CI/CD pipeline using GitHub Actions.
+
 🌐 Live Demo
+
 Frontend: http://52.201.169.179
+
 Backend API: http://52.201.169.179:3000
+
 Health Check: http://52.201.169.179:3000/health
 
 🏗️ Architecture
