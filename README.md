@@ -107,8 +107,13 @@ devops-project1-monorepo/
 
 ![CI/CD Workflow](ci-cd-pipeline.png)
 
-![Frontend Dashboard](frontend-screenshot.png)
-content1.png - https://github.com/chirayus20/devops-project1-monorepo/blob/main/content.png?raw=true
-content2.png - https://github.com/chirayus20/devops-project1-monorepo/blob/main/content%20(1).png?raw=true
-content3.png - https://github.com/chirayus20/devops-project1-monorepo/blob/main/content%20(2).png?raw=true 
+## 📸 Screenshots
+
+### Deployment Screenshots
+
+![Screenshot 1](content.png)
+
+![Screenshot 2](content%20(1).png)
+
+![Screenshot 3](content%20(2).png)
 
