@@ -104,14 +104,7 @@ devops-project1-monorepo/
 
 
 ## 📸 Screenshots
+https://github.com/chirayus20/devops-project1-monorepo/blob/f0cbde5ac63679ddeb7992133f30a8b78698f679/content.png
 
-### AWS DevOps Engineer Roadmap
 
-![AWS DevOps Engineer Roadmap](content.png)
-
-### Deployment Views
-
-![Deployment View 2](content%20(1).png)
-
-![Deployment View 3](content%20(2).png)
 
