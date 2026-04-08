@@ -104,7 +104,7 @@ devops-project1-monorepo/
 
 
 ## 📸 Screenshots
-https://github.com/chirayus20/devops-project1-monorepo/blob/f0cbde5ac63679ddeb7992133f30a8b78698f679/content.png
+![Screenshot](https://github.com/chirayus20/devops-project1-monorepo/blob/f0cbde5ac63679ddeb7992133f30a8b78698f679/content.png)
 
 
 
