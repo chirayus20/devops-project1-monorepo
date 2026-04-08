@@ -105,9 +105,7 @@ devops-project1-monorepo/
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="content.png" width="700"/>
-</p>
+![Screenshot](https://raw.githubusercontent.com/chirayus20/devops-project1-monorepo/main/content.png)
 
 
 
